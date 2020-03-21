@@ -52,5 +52,5 @@ public class InsultGenerator {
 			return "Database connection problem!";
 		}
 		return theInsult;
-	}
+	
 }
